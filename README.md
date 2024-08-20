@@ -1,4 +1,4 @@
-## k3d/wsl/bigbang notes
+## k3d/wsl notes
 
 ### assumptions
 - ubuntu 24.04 in WSL2
@@ -6,8 +6,6 @@
 - virtualization support set in your BIOS, probs under CPU settings somewhere
 
 ### references
-- bigbang project page: <https://repo1.dso.mil/big-bang/bigbang>
-- bigbang quick start: <https://repo1.dso.mil/big-bang/bigbang/-/blob/master/docs/guides/deployment-scenarios/quickstart.md>
 - k3d: <https://k3d.io>
 
 ### wsl2 prereq stuff
