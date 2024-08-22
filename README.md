@@ -26,4 +26,4 @@ dnsTunneling=true
 - check/run k8s tooling: `inst_k8s_tools.sh`
 
 ### running k3d
-- check `kstart.sh`
+- check `kstart.sh`, update with a value for your WSL2 IP, perhaps not needed
