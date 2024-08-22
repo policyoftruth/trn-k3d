@@ -2,7 +2,7 @@
 
 ### assumptions
 - ubuntu 24.04 in WSL2
-- windows 22, build 23H2
+- windows 11, build 23H2
 - virtualization support set in your BIOS, probs under CPU settings somewhere
 
 ### references
