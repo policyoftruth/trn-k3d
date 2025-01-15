@@ -7,6 +7,7 @@
 
 ### references
 - k3d: <https://k3d.io>
+- exposing a service: <https://k3d.io/v5.7.3/usage/exposing_services/>
 
 ### wsl2 prereq stuff
 - `.wslconfig` in your ***%UserProfile%*** directory w/o an extension
@@ -15,7 +16,6 @@
 memory=24GB
 networkingMode=mirrored
 kernelCommandLine=ipv6.disable=1
-dnsTunneling=true
 ```
 - `wsl --shutdown` after changes
 - check `free -h` to make sure memory change took
@@ -27,3 +27,9 @@ dnsTunneling=true
 
 ### running k3d
 - check `kstart.sh`, update with a value for your WSL2 IP, perhaps not needed
+
+### scratch
+
+```
+
+```
